@@ -1494,6 +1494,7 @@ nmap gw <Action>(KJumpAction.Word0)
 xmap gw <Action>(KJumpAction.Word0)
 
 " String manipulation (https://plugins.jetbrains.com/plugin/2162-string-manipulation)
+nmap & <Action>(StringManipulation.AlignSelections)
 xmap & <Action>(StringManipulation.AlignSelections)
 
 " Selection manipulation
